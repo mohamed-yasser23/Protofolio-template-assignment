@@ -94,7 +94,7 @@ h3{
         margin-left: 12%;
     }
     .projects-grid{
-        align-items:center;
+        align-content:center;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
     }
