@@ -96,9 +96,11 @@ h3{
         margin-left: 12%;
     }
     .projects-grid{
-    background-color:green;
+    background-color:red;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
+        align-items:center;
+        justify-content: center;
     }
     
 
