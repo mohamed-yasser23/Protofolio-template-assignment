@@ -90,13 +90,13 @@ h3{
 
 @media(max-width:768px) {
    main {
-       align-itema:center;
+       align-items:center;
    }
     .projects-grid h2 {
         margin-left: 12%;
     }
     .projects-grid{
-    background-color:red;
+    background-color:green;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
     }
